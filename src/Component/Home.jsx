@@ -36,7 +36,7 @@ function Home() {
         </header>
 
         <br />
-        <br />
+        
 
         <button type="button" class="btn btn-info" onClick={()=> navigate('/cart')}>View Cart</button>
     </>
